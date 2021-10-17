@@ -1,4 +1,4 @@
-//4003975   Jul 2, 2013 8:27:30 PM	fuwutu	 4A - Watermelon	 GNU C++0x	Accepted	 15 ms	 0 KB
+// problem : https://codeforces.com/problemset/problem/4/A?f0a28=1
 #include <iostream>
 
 using namespace std;
